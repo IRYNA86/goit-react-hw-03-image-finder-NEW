@@ -11,7 +11,7 @@ const apiKey = '25360661-9d832ca480fd7eb90334f4453';
 
 class App extends React.Component {
   state = {
-    hits: [],
+    hits: '',
     images: '',
     id: '',
     page: 1,
